@@ -17,7 +17,7 @@ $ cmddo list
 ## ⚡ 30 秒上手
 
 ```bash
-npm install -g cmddo
+npm i @atao-npm/cmddo
 
 cmddo add "修复登录 Bug" -p high -t work
 cmddo add "写单元测试"

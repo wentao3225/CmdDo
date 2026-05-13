@@ -1,5 +1,5 @@
 {
-  "name": "cmddo",
+  "name": "@atao-npm/cmddo",
   "version": "0.1.0",
   "description": "A beautiful CLI todo tool for developers",
   "bin": {
@@ -9,6 +9,10 @@
     "test": "node --test tests/*.test.js"
   },
   "keywords": ["cli", "todo", "task", "productivity", "terminal"],
+  "files": [
+    "bin/",
+    "src/"
+  ],
   "type": "module",
   "license": "MIT",
   "engines": {
